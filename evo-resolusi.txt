@@ -3,3 +3,4 @@ Target saya kedepannya :
 - Belajar Laravel
 - Belajar Vue
 - Belajar N3 hingga selesai
+- Lebih aktif di kelas online
